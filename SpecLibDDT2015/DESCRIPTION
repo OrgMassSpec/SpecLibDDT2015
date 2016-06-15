@@ -1,0 +1,12 @@
+Package: SpecLibDDT2015
+Type: Package
+Title: Mass Spectral Library for DDT and Kelthane-Dicofol Technical Mixtures
+Version: 0.1
+Date: 2015-03-16
+Author: Susan A. Mackintosh, Nathan G. Dodder, Nellie J. Shaul, Lihini I. Aluwihare, Keith A. Maruya, Susan J. Chivers, Kerri Danil, David W. Weller, Eunha Hoh
+Maintainer: Nathan Dodder <nathand@sccwrp.org>
+Depends: R (>= 3.0.0), OrgMassSpecR (>= 0.4-4), grid
+Description: Supplemental Information to: "40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins"
+License: BSD_2_clause + file LICENSE
+URL: http://OrgMassSpec.github.io
+LazyData: yes
