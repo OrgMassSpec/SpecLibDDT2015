@@ -7,7 +7,7 @@
 # # Remove K4 and K5 spectra since these are not recorded in the metadata (incorrect assignment later removed).
 # y <- droplevels(SpecData[SpecData$filename %in% c("K1","K2","K3","K6","K7","K8","K9","K10","K11"), ])
 # WriteMspFile(y, x, filename = "SpecLibKelthane2015.txt", 
-#              comment = "40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015")
+#              comment = "Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015")
 
 
 
@@ -41,7 +41,7 @@ LibraryReportKelthane <- function(spectra = SpecData,
   
   pushViewport(viewport(layout.pos.row = 3))
   
-  grid.text("40 Years After The Ban: DDT-Related Compounds Accumulating in\nSouthern California Bottlenose Dolphins", y = 0.9, gp = gpar(cex = 1.25))
+  grid.text("Newly Identified DDT-Related Compounds Accumulating in\nSouthern California Bottlenose Dolphins", y = 0.9, gp = gpar(cex = 1.25))
   grid.text("Susan A. Mackintosh, Nathan G. Dodder, Nellie J. Shaul, Lihini I. Aluwihare, Keith A. Maruya,\nSusan J. Chivers, Kerri Danil, David W. Weller, Eunha Hoh", y = 0.6, gp = gpar(cex = 1.25))
   grid.text("Web Reference: http://OrgMassSpec.github.io", y = 0.3, gp = gpar(cex = 1.25))
   

@@ -1,5 +1,5 @@
 NAME: chlorodiphenyl-methanone
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 104
 50 566;
 51 707;
@@ -107,7 +107,7 @@ Num Peaks: 104
 969 3;
 
 NAME: DDMU
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 178
 50 268;
 51 221;
@@ -289,7 +289,7 @@ Num Peaks: 178
 936 24;
 
 NAME: DDT
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 236
 50 373;
 51 199;
@@ -529,7 +529,7 @@ Num Peaks: 236
 1000 1;
 
 NAME: DDM 
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 123
 50 515;
 51 350;
@@ -656,7 +656,7 @@ Num Peaks: 123
 999 13;
 
 NAME: DBP
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 73
 50 231;
 51 90;
@@ -733,7 +733,7 @@ Num Peaks: 73
 255 1;
 
 NAME: DDOH
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 173
 50 132;
 51 105;
@@ -910,7 +910,7 @@ Num Peaks: 173
 992 9;
 
 NAME: DDE
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 172
 50 287;
 51 182;
@@ -1086,7 +1086,7 @@ Num Peaks: 172
 324 3;
 
 NAME: unknown 1
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 59
 50 145;
 51 71;
@@ -1149,7 +1149,7 @@ Num Peaks: 59
 266 1;
 
 NAME: unknown 2
-COMMENT: 40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
+COMMENT: Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015
 Num Peaks: 92
 50 77;
 51 66;

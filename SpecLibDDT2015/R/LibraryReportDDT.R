@@ -13,7 +13,7 @@
 # 
 # y <- droplevels(SpecData[SpecData$filename %in% 1:26, ])
 # WriteMspFile(y, x, filename = "SpecLibDDT2015.txt", 
-#              comment = "40 Years After The Ban: DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015")
+#              comment = "Newly Identified DDT-Related Compounds Accumulating in Southern California Bottlenose Dolphins, Mackintosh et al., 2015")
 
 
 LibraryReportDDT <- function(spectra = SpecData,
@@ -46,7 +46,7 @@ LibraryReportDDT <- function(spectra = SpecData,
   
   pushViewport(viewport(layout.pos.row = 3))
   
-  grid.text("40 Years After The Ban: DDT-Related Compounds Accumulating in\nSouthern California Bottlenose Dolphins", y = 0.9, gp = gpar(cex = 1.25))
+  grid.text("Newly Identified DDT-Related Compounds Accumulating in\nSouthern California Bottlenose Dolphins", y = 0.9, gp = gpar(cex = 1.25))
   grid.text("Susan A. Mackintosh, Nathan G. Dodder, Nellie J. Shaul, Lihini I. Aluwihare, Keith A. Maruya,\nSusan J. Chivers, Kerri Danil, David W. Weller, Eunha Hoh", y = 0.6, gp = gpar(cex = 1.25))
   grid.text("Web Reference: http://OrgMassSpec.github.io", y = 0.3, gp = gpar(cex = 1.25))
   

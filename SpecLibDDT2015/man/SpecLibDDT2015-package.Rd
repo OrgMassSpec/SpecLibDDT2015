@@ -5,7 +5,7 @@
 Mass Spectral Library for DDT and Kelthane-Dicofol Technical Mixtures
 }
 \description{
-Contains the code and mass spectral library described in: TODO
+Contains the code and mass spectral library described in: "Newly Identified DDT-Related Compounds Accumulating in Southern Califorina Bottlenose Dolphins.""
 
 The corresponding article includes a description of
 the study goals, samples, and GCxGC/TOF-MS
